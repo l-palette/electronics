@@ -1,8 +1,4 @@
 # Работа №2: Исследование параметрического стабилизатора напряжения
-![answer1](_assets/answers/1.jpg)
-![answer2](_assets/answers/2.jpg)
-![answer3](_assets/answers/3.jpg)
-![answer4](_assets/answers/4.jpg)
 
 ## Цель работы
 
